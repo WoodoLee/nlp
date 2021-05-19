@@ -18,7 +18,7 @@ rc('text', usetex=True)
 # harvard sentece : https://www.voiptroubleshooter.com/open_speech/american.html
 # CMU http://festvox.org/cmu_arctic/dbs_rms.html
 # http://homepage.ntu.edu.tw/~karchung/miniconversations/MC.htm
-inputWav = "./data/mc1.wav"
+inputWav = "./data/iloveu2.wav"
 
 #sampling rate
 sR = 1000
